@@ -220,7 +220,8 @@ nodes = [
 """
 
 edges = [
-    {"from": 1, "to": 2, "relationship": "Umbrella Program"},
+    {"from": 1, "to": 6, "relationship": "Umbrella Program"},
+    {"from": 1, "to": 7, "relationship": "Umbrella Program"},
     {"from": 2, "to": 6, "relationship": "Feeds Into"},
     {"from": 2, "to": 7, "relationship": "Feeds Into"},
     {"from": 3, "to": 6, "relationship": "Feeds Into"},
