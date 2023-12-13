@@ -232,7 +232,7 @@ HtmlFile = open(file_path, "r", encoding="utf-8")
 st.title("Demo | Network Visualization of UNC I&E Ecosystem")
 st.markdown(
     """
-        ## About the Project
+    ## About the Project
     
     This is a demo project, developed by [FastTraCS](https://tracs.unc.edu/index.php/services/fasttracs), for mapping the UNC Innovation & Entrepreneurship (I&E) Ecosystem. This interactive tool is designed to explore connections, utilization, and collaborations within the I&E network. 
     
