@@ -192,9 +192,26 @@ edges = [
 net = Network(height="750px", width="100%", bgcolor="#808080", font_color="white")
 
 
-# Add nodes to the network
+# Word wrap function for labels
+def insert_newlines(string, every=50):
+    lines = []
+    for i in range(0, len(string), every):
+        lines.append(string[i : i + every])
+    return "\n".join(lines)
+
+
+# Add nodes to the network with additional hover details
 for node in nodes:
-    net.add_node(node["id"], label=node["name"], title=node["description"])
+    # Join all techtype elements into a single string
+    techtypes_str = ", ".join(node["techtype"])
+
+    # Break the description into multiple lines
+    description_with_newlines = insert_newlines(node["description"])
+
+    simple_hover_details = (
+        f"Technology: {techtypes_str}\nDescription:\n{description_with_newlines}"
+    )
+    net.add_node(node["id"], label=node["name"], title=simple_hover_details)
 
 
 # Add edges to the network, highlight parent-child relationships
@@ -230,7 +247,7 @@ HtmlFile = open(file_path, "r", encoding="utf-8")
 
 # Display the Pyvis graph in the Streamlit app
 st.title("Demo | Network Visualization of UNC I&E Ecosystem")
-st.markdown(
+st.sidebar.markdown(
     """
     ## About the Project
     
