@@ -25,6 +25,7 @@ Research and Development Support:
 - Research Grants: Funding opportunities for research initiatives, e.g., the Gillings Innovation Lab.
 - Translational Research Support: Support for translating research into practical applications, such as FastTraCS and AdvanTx.
 - Innovation Labs: Facilities and environments promoting innovation, like The Cube.
+- Regulatory Support: Support for evaluating regulatory requirements and compliance.
 - Patent and Market Research: Services providing patent filing assistance and market research, exemplified by the Patent Landscape OTC.
 
 Networking and Collaboration:
@@ -69,6 +70,12 @@ nodes = [
             "KickStart Venture Services",
         ],
         "website": "https://innovate.unc.edu/",
+        "resources_offered": [
+            "Data Management and Reporting Services",
+            "Economic and Social Impact Tracking",
+        ],
+        "efficiency": 0.8,
+        "expertise_available": ["Innovation Management", "Entrepreneurship"],
     },
     {
         "id": 2,
@@ -91,6 +98,9 @@ nodes = [
         },
         "affiliation": ["NC TraCS Institute", "School of Medicine"],
         "website": "https://tracs.unc.edu/index.php/services/fasttracs",
+        "resources_offered": ["Needs Discovery Programs", "Design Services"],
+        "efficiency": 0.75,
+        "expertise_available": ["Medical Technology", "Healthcare Innovation"],
     },
     {
         "id": 3,
@@ -117,6 +127,9 @@ nodes = [
         },
         "affiliation": ["Eshelman School of Pharmacy"],
         "website": "https://unceii.org/",
+        "resources_offered": ["Grant Programs", "Research Grants"],
+        "efficiency": 0.75,
+        "expertise_available": ["Medical Technology", "Healthcare Innovation"],
     },
     {
         "id": 4,
@@ -139,6 +152,9 @@ nodes = [
         },
         "affiliation": ["KickStart Venture Services", "Innovate Carolina"],
         "website": "https://innovate.unc.edu/venture-catalyst-program/",
+        "resources_offered": ["Mentorship Programs"],
+        "efficiency": 0.75,
+        "expertise_available": ["Market Research"],
     },
     {
         "id": 5,
@@ -158,6 +174,12 @@ nodes = [
         },
         "affiliation": ["Kenan-Flagler Business School"],
         "website": "https://cboh.unc.edu/",
+        "resources_offered": ["Events"],
+        "efficiency": 0.2,
+        "expertise_available": [
+            "Business Strategy",
+            "Healthcare Leadership",
+        ],
     },
     {
         "id": 6,
@@ -189,6 +211,12 @@ nodes = [
             "Innovate Carolina",
         ],
         "website": "https://innovate.unc.edu/startup-accelerators-and-venture-services/kickstart-venture-services/",
+        "resources_offered": ["Patent and Market Research"],
+        "efficiency": 0.85,
+        "expertise_available": [
+            "Technology Transfer",
+            "Intellectual Property Management",
+        ],
     },
     {
         "id": 7,
@@ -208,6 +236,12 @@ nodes = [
             "KickStart Venture Services",
         ],
         "website": "https://innovate.unc.edu/",
+        "resources_offered": ["Patent and Market Research"],
+        "efficiency": 0.85,
+        "expertise_available": [
+            "Technology Transfer",
+            "Intellectual Property Management",
+        ],
     },
 ]
 
