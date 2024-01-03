@@ -145,4 +145,64 @@ tech_data = [
             "role": "Faculty",
         },
     },
+    {
+        "id": "T4",
+        "name": "Microfluidic Device for Human Vasculature Modeling",
+        "techtype": "Biomedical Engineering",
+        "short_description": "A microfluidic device developed to model human vasculature and hollow tissue structures, enabling precise control of the mechanical and chemical endothelial environments.",
+        "long_description": "Researchers in the Department of Biomedical Engineering have developed a microfluidic device to model human vasculature and hollow tissue structures such as ducts and vessels. The device, made of polymer housing with alignment features, allows the generation of hollow tubes in hydrogels and biomaterials. It's designed for low cell numbers and reagent volumes, and is compatible with standard laboratory equipment. The device supports various assays under flow or static conditions, including permeability, solute transport, cell adhesion, angiogenesis, and hemostasis. It enables precise control over mechanical and chemical endothelial environments and is applicable to a range of research involving complex 3D flow. This technology is particularly relevant for studying various disease states and can be used in drug development and patient screening for clinical trials.",
+        "stage": "Development",
+        "readiness_level": "Prototype",
+        "expertise_required": "Biomedical Engineering, Vascular Biology",
+        "resource_needs": {
+            "Research and Development Support": [
+                "Fabrication Protocols",
+                "Device Testing and Validation",
+            ],
+            "Technology and Infrastructure": [
+                "Microfabrication Facilities",
+                "Biomaterials Supply",
+            ],
+            "Market Research and Commercialization": [
+                "Market Analysis for Biomedical Devices",
+                "Commercialization Strategy Development",
+            ],
+        },
+        "inventor": {
+            "name": "Wubin Bai",
+            "department": "Department of Applied Physical Sciences",
+            "school": "College of Arts & Sciences",
+            "role": "Facult",
+        },
+    },
+    {
+        "id": "T5",
+        "name": "CVC Clave Management Tools",
+        "techtype": "Medical Device",
+        "short_description": "Innovative tools designed to mitigate the challenges associated with releasing a seized clave from central venous catheters (CVCs).",
+        "long_description": "Researchers at UNC have developed two novel prototype devices to address the common issues in managing central venous catheters (CVCs), particularly in dealing with seized claves. These prototypes are tools that facilitate loosening attached claves and lumen hubs using a series of grips, allowing the user to easily apply torque to loosen the attachment joint. The need for such devices arises from the challenges faced by patients and caregivers, especially in home-care settings, where improper handling of claves can lead to overtightening, leading to difficulty in removal, or undertightening, which increases infection risks. The devices are slated for usability testing to optimize performance and address end-user needs.",
+        "stage": "Prototype Development",
+        "readiness_level": "Usability Testing",
+        "expertise_required": "Medical Engineering, Patient Care",
+        "resource_needs": {
+            "Research and Development Support": [
+                "Usability Testing",
+                "Design Optimization",
+            ],
+            "Clinical Trials and Validation": [
+                "Patient Safety Studies",
+                "Efficacy Assessment",
+            ],
+            "Regulatory Compliance": [
+                "FDA Approval Process",
+                "Medical Device Certification",
+            ],
+        },
+        "inventor": {
+            "name": "Amy Cole",
+            "department": "IT",
+            "school": "School of Medicine",
+            "role": "Staff",
+        },
+    },
 ]
