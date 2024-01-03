@@ -1,0 +1,197 @@
+[
+    {
+        "id": 1,
+        "name": "Innovate Carolina",
+        "techtype": ["General"],
+        "description": "Works with a network of campus and community partners to connect innovators and entrepreneurs to a set of tools and resources to support their ideas, initiatives and ventures. Uses the network of resources and tools to help support fellows and faculty.",
+        "resources": {
+            "Impact Measurement and Reporting": [
+                {
+                    "type": "Data Management and Reporting Services",
+                    "details": "Services specializing in managing and reporting impact data, like Impact Measurement and Reporting Services."
+                },
+                {
+                    "type": "Economic and Social Impact Tracking",
+                    "details": "Tools and services for tracking the economic and social impact of innovation initiatives, exemplified by the Innovate Carolina Startups Database."
+                }
+            ]
+        },
+        "affiliation": [
+            "Office of Technology Commercialization",
+            "KickStart Venture Services"
+        ],
+        "website": "https://innovate.unc.edu/",
+        "resources_offered": [
+            "Data Management and Reporting Services",
+            "Economic and Social Impact Tracking"
+        ],
+        "efficiency": 0.8,
+        "expertise_available": ["Innovation Management", "Entrepreneurship"]
+    },
+    {
+        "id": 2,
+        "name": "FastTraCS",
+        "techtype": ["Medtech"],
+        "description": "Designed for healthcare practitioners, researchers, and administrators seeking to identify opportunities to create MedTech solutions.",
+        "resources": {
+            "Discovery and Ideation Support": [
+                {
+                    "type": "Needs Discovery Programs",
+                    "details": "Initiatives for identifying and understanding market and user needs."
+                }
+            ],
+            "Technology and Infrastructure": [
+                {
+                    "type": "Design Services",
+                    "details": "Services providing design and prototype development support, like ChAI Core."
+                }
+            ]
+        },
+        "affiliation": ["NC TraCS Institute", "School of Medicine"],
+        "website": "https://tracs.unc.edu/index.php/services/fasttracs",
+        "resources_offered": ["Needs Discovery Programs", "Design Services"],
+        "efficiency": 0.75,
+        "expertise_available": ["Medical Technology", "Healthcare Innovation"]
+    },
+    {
+        "id": 3,
+        "name": "The Eshelman Institute",
+        "techtype": ["Therapeutics", "Digital Health"],
+        "description": "Designed to fund translational research related to therapeutics focused on oncology, infectious disease, and neuroscience (including rare diseases). However, the Institute welcomes ideas for devices and diagnostics, and other therapeutic areas and services.",
+        "resources": {
+            "Funding and Grants": [
+                {
+                    "type": "Grant Programs",
+                    "details": "Financial grant programs for innovation."
+                }
+            ],
+            "Mentorship and Support": [
+                {
+                    "type": "Entrepreneurs in Residence",
+                    "details": "Experienced entrepreneurs offering mentorship and support."
+                },
+                {
+                    "type": "Commercialization and Startup Support",
+                    "details": "Services aiding in commercializing innovations and supporting startups."
+                }
+            ]
+        },
+        "affiliation": ["Eshelman School of Pharmacy"],
+        "website": "https://unceii.org/",
+        "resources_offered": ["Grant Programs", "Research Grants"],
+        "efficiency": 0.75,
+        "expertise_available": ["Medical Technology", "Healthcare Innovation"]
+    },
+    {
+        "id": 4,
+        "name": "Venture Catalyst Program",
+        "techtype": ["General"],
+        "description": "This program provides startups with business support and entrepreneurial fellows with direct experiences translating scientific, technological and social-driven ideas into the market. Program matches each startup with entrepreneurial mentors and venture catalyst fellows. A year program as a cohort to meet with mentors as a fellow.",
+        "resources": {
+            "Funding and Grants": [
+                {
+                    "type": "Grant Programs",
+                    "details": "Financial grant programs for innovation."
+                }
+            ],
+            "Mentorship and Support": [
+                {
+                    "type": "Mentorship Programs",
+                    "details": "Programs providing guidance and advice."
+                }
+            ]
+        },
+        "affiliation": ["KickStart Venture Services", "Innovate Carolina"],
+        "website": "https://innovate.unc.edu/venture-catalyst-program/",
+        "resources_offered": ["Mentorship Programs"],
+        "efficiency": 0.75,
+        "expertise_available": ["Market Research"]
+    },
+    {
+        "id": 5,
+        "name": "Center for the Business of Health",
+        "techtype": ["General"],
+        "description": "The Center for the Business of Health brings together expertise from across the university to generate knowledge, prepare business leaders, and facilitate important discussions about healthcare's business aspects. It offers various programs and activities, including courses, research, events, and an advisory board, focusing on the intersection of business and health. The Center aims to explore and address contemporary challenges in the healthcare industry through education, research, and community engagement.",
+        "resources": {
+            "Educational Resources": [
+                {
+                    "type": "Events",
+                    "details": {
+                        "name": "Business of Healthcare Conference",
+                        "description": "The annual Business of Healthcare Conference is hosted by Kenan-Flagler on campus each fall. Coordinated and led by the Healthcare Club, the conference attracts more than 400 attendees and features expert panels and keynote speakers discussing the most central healthcare issues facing our community. Healthcare club members have the unique opportunity to help plan, organize, and implement this event, which over the past few years has become one of the most well-attended and popular annual events at Kenan-Flagler."
+                    }
+                }
+            ]
+        },
+        "affiliation": ["Kenan-Flagler Business School"],
+        "website": "https://cboh.unc.edu/",
+        "resources_offered": ["Events"],
+        "efficiency": 0.2,
+        "expertise_available": [
+            "Business Strategy",
+            "Healthcare Leadership"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "KickStart Venture Services",
+        "techtype": ["General"],
+        "description": "Supports research-based startup formation and growth by providing education, early-stage funding, and on-campus accelerator space particularly through the KickStart Commercialization Grant Awards. KickStart also connects founders to key service providers, management, and investors in the local innovation ecosystem.",
+        "resources": {
+            "Funding and Grants": [
+                {
+                    "type": "Grant Programs",
+                    "details": "Financial grant programs for innovation."
+                }
+            ],
+            "Mentorship and Support": [
+                {
+                    "type": "Mentorship Programs",
+                    "details": "Programs providing guidance and advice."
+                }
+            ],
+            "Technology and Infrastructure": [
+                {
+                    "type": "Accelerator Spaces",
+                    "details": "Spaces designed to accelerate the growth of startups."
+                }
+            ]
+        },
+        "affiliation": [
+            "Office of Technology Commercialization",
+            "Innovate Carolina"
+        ],
+        "website": "https://innovate.unc.edu/startup-accelerators-and-venture-services/kickstart-venture-services/",
+        "resources_offered": ["Patent and Market Research"],
+        "efficiency": 0.85,
+        "expertise_available": [
+            "Technology Transfer",
+            "Intellectual Property Management"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Office of Technology Commercialization",
+        "techtype": ["General"],
+        "description": "The Office of Technology Commercialization (OTC) focuses on accelerating the translation of ideas into meaningful products and services. It supports inventors, startups, and industry partners, offering guidance on bringing inventions to market, securing translational research funding, and managing Material Transfer Agreements (MTAs) and Confidential Disclosure Agreements (CDAs). The OTC also showcases the impact of commercialization through various reports and news, and it promotes innovation that benefits North Carolina, the world, and the university. ",
+        "resources": {
+            "Research and Development Support": [
+                {
+                    "type": "Patent and Market Research",
+                    "details": "Services providing patent filing assistance and market research."
+                }
+            ]
+        },
+        "affiliation": [
+            "Innovate Carolina",
+            "KickStart Venture Services"
+        ],
+        "website": "https://innovate.unc.edu/",
+        "resources_offered": ["Patent and Market Research"],
+        "efficiency": 0.85,
+        "expertise_available": [
+            "Technology Transfer",
+            "Intellectual Property Management"
+        ]
+    }
+]
