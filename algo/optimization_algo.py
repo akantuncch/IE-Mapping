@@ -1,7 +1,7 @@
 import pulp
 
-from dummy_users import tech_data
-from source_data.unc_entities import nodes as program_data
+from source_data.tech import tech_data
+from source_data.prog import nodes as program_data
 
 # Create a linear programming problem
 problem = pulp.LpProblem("Minimize_Development_Time", pulp.LpMinimize)
