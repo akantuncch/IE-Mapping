@@ -1,51 +1,44 @@
 # Resources documentation below
-
-"""
-Educational Resources:
-- Workshops: These include various workshops aimed at skill development, such as Design Thinking workshops.
-- Courses and Curriculum: Academic courses and curricula tailored to entrepreneurial and innovation skills, like Startup UNC, MS MedTech.
-- Degree Programs: Specialized degree programs, for instance, dual degree programs in healthcare.
-- Certificate Programs: Certification programs offering focused learning, such as a Certificate in Entrepreneurship & Strategy.
-- Entrepreneurship Minor: Minor degree programs focused on entrepreneurship, e.g., the Shuford Program in Entrepreneurship.
-- Events: Conferences and networking sessions that provide opportunities for learning, networking, and collaboration, like annual innovation symposiums or entrepreneur meetups.
-
-
-Funding and Grants:
-- Venture Funds: Funds specifically allocated for student ventures, like the 1789 Student Venture Fund.
-- Grant Programs: Financial grant programs for innovation, such as the Eshelman Innovation Institute funding.
-- Investment Networks: Networks facilitating investments, for example, the Carolina Angel Network.
-
-Mentorship and Support:
-- Mentorship Programs: Programs providing guidance and advice, like the Venture Catalyst Program.
-- Entrepreneurs in Residence: Experienced entrepreneurs offering mentorship and support.
-- Legal Support: Legal assistance services, such as those provided by Law School Pro Bono initiatives.
-- Commercialization and Startup Support: Services aiding in commercializing innovations and supporting startups, including the Office of Technology Commercialization and KickStart Venture Services.
-
-Research and Development Support:
-- Research Grants: Funding opportunities for research initiatives, e.g., the Gillings Innovation Lab.
-- Translational Research Support: Support for translating research into practical applications, such as FastTraCS and AdvanTx.
-- Innovation Labs: Facilities and environments promoting innovation, like The Cube.
-- Regulatory Support: Support for evaluating regulatory requirements and compliance.
-- Patent and Market Research: Services providing patent filing assistance and market research, exemplified by the Patent Landscape OTC.
-
-Networking and Collaboration:
-- Innovation Hubs and Districts: Spaces fostering innovation, such as downtown innovation districts.
-- Innovation Networks: Networks established to promote collaboration and innovation, like the Innovate Carolina global Network.
-- Collaborative Spaces: Physical or virtual spaces designed to encourage collaboration, for instance, the Innovation Space @ Franklin St.
-
-Technology and Infrastructure:
-- Maker Spaces: Facilities equipped with tools and technology for creating and prototyping, such as BeAM.
-- Design Services: Services providing design and prototype development support, like ChAI Core.
-- Accelerator Spaces: Spaces designed to accelerate the growth of startups, for example, the KickStart Accelerator.
-
-Impact Measurement and Reporting:
-- Data Management and Reporting Services: Services specializing in managing and reporting impact data, like Impact Measurement and Reporting Services.
-- Economic and Social Impact Tracking: Tools and services for tracking the economic and social impact of innovation initiatives, exemplified by the Innovate Carolina Startups Database.
-
-Discovery and Ideation Support:
-- Customer Discovery and Market Opportunity Programs: Programs designed to identify customer needs and market opportunities, such as I-Corps.
-- Needs Discovery Programs: Initiatives for identifying and understanding market and user needs, like ChAI Core and FastTraCS.
-"""
+{
+    "Educational Resources": {
+        "Workshops": "Various workshops aimed at skill development, such as Design Thinking workshops.",
+        "Courses and Curriculum": "Academic courses and curricula tailored to entrepreneurial and innovation skills, like Startup UNC, MS MedTech.",
+        "Degree Programs": "Specialized degree programs, for instance, dual degree programs in healthcare.",
+        "Certificate Programs": "Certification programs offering focused learning, such as a Certificate in Entrepreneurship & Strategy.",
+        "Entrepreneurship Minor": "Minor degree programs focused on entrepreneurship, e.g., the Shuford Program in Entrepreneurship.",
+    },
+    "Funding and Grants": {
+        "Venture Funds": "Funds specifically allocated for student ventures, like the 1789 Student Venture Fund.",
+        "Grant Programs": "Financial grant programs for innovation, such as the Eshelman Innovation Institute funding.",
+        "Investment Networks": "Networks facilitating investments, for example, the Carolina Angel Network.",
+    },
+    "Mentorship and Support": {
+        "Mentorship Programs": "Programs providing guidance and advice, like the Venture Catalyst Program.",
+        "Entrepreneurs in Residence": "Experienced entrepreneurs offering mentorship and support.",
+        "Legal Support": "Legal assistance services, such as those provided by Law School Pro Bono initiatives.",
+        "Startup Support": "Services aiding in commercializing innovations and supporting startups, including and KickStart Venture Services.",
+        "Intellectual Property": "Services managing intellectual property protection and licensing, including the Office of Technology Commercialization.",
+    },
+    "Research and Development Support": {
+        "Translational Research Support": "Support for translating research into practical applications, such as NC TraCS and AdvanTx.",
+        "Regulatory Support": "Support for evaluating regulatory requirements and compliance.",
+        "Patent and Market Research": "Services providing patent filing assistance and market research, exemplified by the Patent Landscape OTC.",
+    },
+    "Networking and Collaboration": {
+        "Innovation Hubs and Districts": "Spaces fostering innovation, such as downtown innovation districts.",
+        "Innovation Networks": "Networks established to promote collaboration and innovation, like the Innovate Carolina global Network.",
+        "Events": "Conferences and networking sessions that provide opportunities for learning, networking, and collaboration, like annual innovation symposiums or entrepreneur meetups.",
+    },
+    "Technology and Infrastructure": {
+        "Maker Spaces": "Facilities equipped with tools and technology for creating and prototyping, such as BeAM.",
+        "Design Services": "Services providing design and prototype development support, like ChAI Core.",
+        "Accelerator Spaces": "Spaces designed to accelerate the growth of startups, for example, the KickStart Accelerator.",
+    },
+    "Discovery and Ideation Support": {
+        "Customer Discovery and Market Opportunity Programs": "Programs designed to identify customer needs and market opportunities, such as I-Corps.",
+        "Needs Discovery Programs": "Initiatives for identifying and understanding market and user needs, like ChAI Core and FastTraCS.",
+    },
+}
 
 nodes = [
     {
